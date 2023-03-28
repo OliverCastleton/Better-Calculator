@@ -1,5 +1,4 @@
 #Imports
-import time
 import math
 import numpy
 #start program
@@ -214,5 +213,4 @@ nn = input("How many numbers will your calculation have?   \n")
 if nn == "2": print(fn , fop , sn )
 if nn == "3": print(fn , fop , sn , sop , tn )
 print("Closing the Calculator...")
-time.sleep(3)
 exit()
